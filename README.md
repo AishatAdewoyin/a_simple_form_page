@@ -1,1 +1,1 @@
-# simple_page_assignment3_altschool
+# simple_page
